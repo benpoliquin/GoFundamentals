@@ -16,3 +16,12 @@ func BenchmarkRepeat(b *testing.B) {
 		Repeat("a", 4)
 	}
 }
+
+func TestUseRepeatBuiltin(t *testing.T) {
+	repeated := UseRepeatBuiltin("b", 3)
+	expected := "bbb"
+
+	if repeated != expected {
+		t.Errorf("expected '%s' but got '%s'", expected, repeated)
+	}
+}
