@@ -21,3 +21,4 @@ Contains Golang examples for:
 #### Resources
 * `https://quii.gitbook.io/learn-go-with-tests`
 * `https://gobyexample.com/`
+* `https://github.com/golang/go/wiki/MutexOrChannel`
