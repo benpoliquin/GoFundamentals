@@ -1,6 +1,6 @@
 # Learn Go with Tests
 
-### Description
+### Description:
 This is a learning repo containing my practice work with the Learn Go with Tests tutorial.
 Contains Golang examples for:
 1. Hello, World
@@ -18,7 +18,9 @@ Contains Golang examples for:
 13. Sync
 14. Context
 
-#### Resources
+#### Resources:
 * `https://quii.gitbook.io/learn-go-with-tests`
 * `https://gobyexample.com/`
+###### About Concurrency:
 * `https://github.com/golang/go/wiki/MutexOrChannel`
+* `https://blog.golang.org/context`
